@@ -1,0 +1,8 @@
+[project]
+name = "legal-intelligence-platform"
+version = "1.0.0"
+description = "Production-ready Legal Named Entity Recognition System"
+requires-python = ">=3.11"
+authors = [
+    {name = "Sangita Bera"}
+]
